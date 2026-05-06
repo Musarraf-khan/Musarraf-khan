@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Musarraf-khan
-- 👀 I’m interested in Web Dev
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Btech C.S.E
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 You can reach me by my email- musharaf.khan0987@gmail.com
